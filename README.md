@@ -3,7 +3,7 @@ I'm Kunal Singh
 ## About Me:
 - 🔍 Exploring **Data Science**, **Machine Learning**, and **Deep Learning**
 - 🤝 Looking to collaborate on AI/ML projects
-- 🌱 Currently learning **Deep Learning** and **Data Engineering**
+- 🌱 Currently learning **Deep Learning** and **LLM**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunal-singh-a7ba211b8/) | [Email](kunal964121@gmail.com)
 
 ---
